@@ -1,4 +1,4 @@
-# Run Buddy
+# Run Buddy, Inc
 
 ## Purpose
 A website that offers fitness training services.
@@ -12,3 +12,5 @@ https://glen3205.github.io/run-buddy/
 
 ## Contribution
 Made with ❤️ by Glen Luersman
+
+### ©️2019 Run Buddy, Inc
